@@ -45,7 +45,18 @@ It supports MCQ, True/False, and Text-based questions with real-time timer and p
 ---
 
 ## 📸 Screenshots
-(Add screenshots here)
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/a823bbe0-f051-41c7-9d2a-10fb47940785" />
+<img width="400" height="627" alt="image" src="https://github.com/user-attachments/assets/276dbd15-5d47-44c7-b65c-90a377d645ee" />
+<img width="501" height="428" alt="image" src="https://github.com/user-attachments/assets/03492626-6308-4d6f-bd6e-58731e7f8906" />
+<img width="1077" height="967" alt="image" src="https://github.com/user-attachments/assets/f28b117d-124e-4139-97b8-1a253dd09061" />
+<img width="471" height="545" alt="image" src="https://github.com/user-attachments/assets/16266763-c4d6-4286-b2fe-4a1d8d118141" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/9da560f0-5df7-4475-99a6-ab9834e8c647" />
+<img width="895" height="524" alt="image" src="https://github.com/user-attachments/assets/159ae510-fbcb-4986-9733-9b0d3c8446b5" />
+<img width="363" height="272" alt="image" src="https://github.com/user-attachments/assets/dc457e7b-f881-49b1-b06a-7dfc76f2d7c8" />
+<img width="647" height="414" alt="image" src="https://github.com/user-attachments/assets/699dbd73-4ca0-4c2e-afd2-3f0c7d3b3ac8" />
+<img width="640" height="418" alt="image" src="https://github.com/user-attachments/assets/96926342-ae2c-4fd9-b3a4-aa51a7e5d0cc" />
+
+
 
 ---
 
