@@ -16,6 +16,7 @@ It supports MCQ, True/False, and Text-based questions with real-time timer and p
 - Result generation (Pass/Fail)
 - Review answers feature
 - Basic proctoring (tab switch + warnings + face detection simulation)
+- Admin Module with Dashboard
 
 ---
 
