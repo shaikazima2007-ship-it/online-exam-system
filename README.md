@@ -49,7 +49,7 @@ It supports MCQ, True/False, and Text-based questions with real-time timer and p
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/a823bbe0-f051-41c7-9d2a-10fb47940785" />
 <img width="400" height="627" alt="image" src="https://github.com/user-attachments/assets/276dbd15-5d47-44c7-b65c-90a377d645ee" />
 <img width="501" height="428" alt="image" src="https://github.com/user-attachments/assets/03492626-6308-4d6f-bd6e-58731e7f8906" />
-<img width="1077" height="967" alt="image" src="https://github.com/user-attachments/assets/f28b117d-124e-4139-97b8-1a253dd09061" />
+<img width="1132" height="983" alt="image" src="https://github.com/user-attachments/assets/cf1f9d22-30bd-4f66-8af7-8a25f4607dbb" />
 <img width="367" height="186" alt="image" src="https://github.com/user-attachments/assets/37e935a6-38b9-41ad-97fd-e92e429091a8" />
 <img width="362" height="179" alt="image" src="https://github.com/user-attachments/assets/73917465-1b13-4d00-9153-ec75193df0bf" />
 <img width="471" height="545" alt="image" src="https://github.com/user-attachments/assets/16266763-c4d6-4286-b2fe-4a1d8d118141" />
